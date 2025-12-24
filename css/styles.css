@@ -30,8 +30,8 @@ ol {
 /*Sidebar  */
 .Sidebar {
   background: #e0ebfe;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   box-sizing: border-box;
   width: 300px;
 }
@@ -122,49 +122,9 @@ ol {
   overflow-wrap: break-word;
 }
 .my-info {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
-/* My projects */
-.my-projects-title {
-  color: #000;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 27px;
-  margin-top: 0;
-  margin-bottom: 8px;
-}
-
-.my-project-item {
-  color: #000;
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.my-projects-list {
-  padding-left: 16px;
-}
-.my-project-item-link {
-  color: #005fff;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  line-height: 171%;
-  text-decoration: underline;
-  text-decoration-skip-ink: none;
-}
-
-.my-project-item-tech {
-  color: #595959;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.my-projects-container {
-  margin-bottom: 40px;
-}
 /* Work experience */
 
 .work-experience-title {
@@ -187,9 +147,9 @@ ol {
   color: #6d9bf5;
 }
 .work-experience-period {
-  color: #a8a8a8;
+  color: #000;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 15px;
   margin-bottom: 8px;
 }
@@ -197,10 +157,10 @@ ol {
   color: #000;
 }
 .work-experience-duties-list {
-  padding-left: 16px;
+  padding-left: 18px;
 }
 .work-experience-duties-item {
-  color: #595959;
+  color: #000;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -235,7 +195,7 @@ ol {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 14px;
-  color: #a8a8a8;
+  color: #000;
 }
 
 .Work experience {
